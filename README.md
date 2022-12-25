@@ -1,0 +1,2 @@
+# CookiStocker
+Automatic Stock Market
